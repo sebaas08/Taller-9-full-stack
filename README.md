@@ -6,3 +6,6 @@
 
 <h2>Punto 1: Link de Figma<h2>
 <a href="https://www.figma.com/file/2MfamJ2cBGJXNXuMhgTiZg/JHOAN-JIMENEZ---FIGMA-EXCERCISE?type=design&node-id=7%3A682&t=neabIeoAr19jowkV-1">Link de Figma</a>
+
+<h2>Punto 2 HTML</h2>
+<img src=./public/images/HTML.png alt="HTML">
