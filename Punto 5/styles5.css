@@ -1,0 +1,28 @@
+p {
+    text-align: start;
+    width: 41%;
+}
+
+.sub-ee {
+    color: rgb(41, 175, 0);
+}
+
+.sub-e {
+    text-decoration-line: underline overline;
+}
+
+.sub-eee {
+    color: red;
+}
+
+.sub-d {
+    font-size: 30px;
+}
+
+.sub-t {
+    color: blue;
+}
+
+.sub-u {
+    color: red;
+}
