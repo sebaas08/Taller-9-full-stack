@@ -1,0 +1,19 @@
+nav ul {
+    display: flex;
+    gap: 50px;
+    list-style: none;
+    background-color: rgb(240, 169, 250);
+    height: 50px;
+    width: 350px;
+    align-items: center;
+}
+
+nav ul a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+nav ul div a {
+    background-color: blue;
+    padding: 25%;
+}

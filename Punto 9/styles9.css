@@ -1,0 +1,21 @@
+table {
+    background-color: yellow;
+    border: 1px dotted black; 
+    border-collapse: collapse;
+}
+
+table td {
+    border: 1px dotted black;
+    text-align: left;
+}
+
+table th {
+    border: 1px dotted black;
+    text-align: center;
+    color: red;
+
+}
+
+.sub-b th {
+    text-align: left;
+}

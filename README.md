@@ -22,3 +22,9 @@
 
 <h2>Punto 6 HTML Y CSS</h2>
 <img src="./Public/images/PUNTO6.png" alt="5">
+
+<h2>Punto 7-8 HTML Y CSS</h2>
+<img src="./Public/images/PUNTO7-8.png" alt="5">
+
+<h2>Punto 9 HTML Y CSS</h2>
+<img src="./Public/images/PUNTO9.png" alt="5">
