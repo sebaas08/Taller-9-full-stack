@@ -8,7 +8,7 @@
 <a href="https://www.figma.com/file/2MfamJ2cBGJXNXuMhgTiZg/JHOAN-JIMENEZ---FIGMA-EXCERCISE?type=design&node-id=7%3A682&t=neabIeoAr19jowkV-1">Link de Figma</a>
 
 <h2>Punto 2 HTML</h2>
-<img src=./public/images/HTML.png alt="HTML">
+<img src=./Public/images/HTML.png alt="HTML">
 
 <h2>Punto 3 CSS</h2>
 <img src="./Public/images/CSS.png" alt="CSS">
@@ -28,3 +28,6 @@
 
 <h2>Punto 9 HTML Y CSS</h2>
 <img src="./Public/images/PUNTO9.png" alt="5">
+
+<h2>Punto: Link de Pagina Web<h2>
+<a href="https://sebaas08.github.io/Taller-9-full-stack/">Link Pagina</a>
